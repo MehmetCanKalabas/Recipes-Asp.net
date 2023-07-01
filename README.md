@@ -1,1 +1,1 @@
-# TastyRecipes-master
+# Recipes
